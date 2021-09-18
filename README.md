@@ -1,2 +1,2 @@
 # Supplement-Sales-Prediction
-Effective forecasting for store sales for supplement retail chain 
+Effective forecasting of store sales for supplement retail chain 
