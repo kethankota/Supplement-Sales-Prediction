@@ -38,8 +38,5 @@ class Middleware:
             username, password = credentials.split(':', 1)
             if (username == config.webservice.admin_user and
                     password == config.webservice.admin_pass):
-                    hmac.compare_digest(
-                        password, config.webservice.admin_pass)):
                 authorized = True
         if not authorized:
-            # Not authorized.
