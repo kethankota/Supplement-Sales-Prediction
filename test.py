@@ -30,7 +30,6 @@ from mailman.rest.helpers import bad_request
 from mailman.rest.root import Root
 from public import public
 
-
 log = logging.getLogger('mailman.http')
 
 MISSING = object()
